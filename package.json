@@ -10,7 +10,7 @@
     "msw": "latest",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
-    "react-scripts": "3.4.0",
+    "react-scripts": "5.0.1",
     "start-server-and-test": "^1.11.0",
     "styled-components": "^5.3.0"
   },
